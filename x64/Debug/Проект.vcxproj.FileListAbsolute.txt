@@ -1,0 +1,4 @@
+C:\Users\Марина\Documents\Белов C++\Проект\x64\Debug\Проект.exe
+C:\Users\Марина\Desktop\Проект\x64\Debug\Проект.exe
+E:\Показать Ивану\Проект\x64\Debug\Проект.exe
+C:\Users\Взрослая академия\Documents\Белов Виктор\Проект\x64\Debug\Проект.exe
